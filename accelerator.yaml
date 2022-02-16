@@ -1,0 +1,7 @@
+accelerator:
+  displayName: Test Accelerator
+  description: Contains just a README
+  iconUrl: https://raw.githubusercontent.com/simple-starters/icons/master/icon-tanzu-light.png
+  tags:
+  - simple
+  - README
